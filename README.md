@@ -10,3 +10,7 @@ I am working as Software Engineering Consultant at [VOE Consulting](https://voec
 - ◼️ On Medium at [@resulhsn](https://medium.com/@resulhsn)
 - 🐦 On Twitter at [@rasulhsn](https://twitter.com/rasulhsn)
 - 👨‍💼 On [LinkedIn](https://www.linkedin.com/in/rasulhsn/)
+
+### NuGet packages
+- **DynamicVNET** [![NuGet View](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/packages/DynamicVNET/1.2.6)
+- **DynamicVNET.Lib.AspNetCore** [![NuGet View](https://img.shields.io/badge/NuGet-004880?style=plastic&logo=nuget&logoColor=white)](https://www.nuget.org/packages/DynamicVNET.Lib.AspNetCore/1.0.1-alpha)
