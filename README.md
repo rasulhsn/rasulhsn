@@ -1,6 +1,6 @@
 # 👋 Hello, this is Rasul!
 
-I am a Senior Software Engineer & Consultant with over 7 years of hands-on experience and a proven track record in delivering high-quality software solutions. Holding certifications including MCP (Microsoft Certified Professional), MCSA (Microsoft Certified Solutions Associate), and MCSD (Microsoft Certified Solutions Developer).
+I am a Senior Software Developer & Consultant with over 7 years of hands-on experience and a proven track record in delivering high-quality software solutions. Holding certifications including MCP (Microsoft Certified Professional), MCSA (Microsoft Certified Solutions Associate), and MCSD (Microsoft Certified Solutions Developer).
 And I am specializing in .NET and Databases, with a strong focus on Distributed Systems with extensive experience in Object-Oriented Analysis and Design (OOAD), Test-Driven Development (TDD) and Extreme Programming.
 
 Currenctly, I am working as Software Engineering Consultant at [VOE Consulting](https://voeconsulting.net) and I am the author at the [CsharpCorner](https://www.c-sharpcorner.com/members/rasul-huseynov), specifically focusing on .NET technologies and distributed systems.
