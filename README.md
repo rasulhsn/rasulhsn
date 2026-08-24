@@ -4,8 +4,6 @@ I am a Senior Software Developer with over 7 years of hands-on experience and a 
 
 I specialize in .NET with a strong focus on Distributed Systems, and I have extensive experience in Object-Oriented Analysis and Design (OOAD), Test-Driven Development (TDD), and Extreme Programming.
 
-Currently, I am working as a **Senior Software Developer at PASHA Insurance**, contributing to the development and maintenance of enterprise-level insurance systems.
-
 I am also an author at C# Corner, where I share content focused on .NET technologies and distributed systems.
 
 ### 🌐 Where to find me
