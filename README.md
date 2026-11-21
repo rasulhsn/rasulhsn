@@ -1,10 +1,6 @@
-# Rasul Huseynov
+### Solutions Architect · Senior Software Engineer
 
-**Solutions Architect · Senior Software Engineer · .NET & Distributed Systems**
-
-Baku, Azerbaijan · Open to new opportunities
-
----
+.NET & Distributed Systems · Baku, Azerbaijan · Open to new opportunities
 
 ## About
 
