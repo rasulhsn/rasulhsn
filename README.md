@@ -52,7 +52,7 @@ I share articles on .NET, distributed systems, and software architecture:
 
 - [Dev.to](https://dev.to/rasulhsn)
 - [Medium](https://medium.com/@resulhsn)
-- C# Corner (author)
+- [C# Corner (author)](https://www.c-sharpcorner.com/members/rasul-huseynov)
 
 ## Connect
 
