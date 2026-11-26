@@ -1,4 +1,4 @@
-### Solutions Architect · Senior Software Engineer
+### Solution Architect · Senior Software Engineer
 
 .NET & Distributed Systems · Baku, Azerbaijan · Open to new opportunities
 
